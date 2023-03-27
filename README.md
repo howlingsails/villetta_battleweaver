@@ -1,4 +1,4 @@
-# The Fantasy World of Pateia Story Campagin
+# The Fantasy World of Pateia Story Campaign
 
 This is a base template of stories for using the Fantasy Map Generator and Fantasy World Vision Generator.
 
