@@ -4,6 +4,8 @@ This is a base template of stories for using the Fantasy Map Generator and Fanta
 
 This repository is for Villetta Battleweaver
 
+Based on output from [Fantasy World Vision Generator](https://howlingsails.com/world_vision/worlds#root_div)
+
 ## Setup
 
 Create a (GitHub) Account
